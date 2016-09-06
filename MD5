@@ -1,0 +1,16 @@
+82b250bbf0e893af0c18c047edf875f2 *DESCRIPTION
+e1c5033e53063342bf72a05316ad1fa0 *NAMESPACE
+5c2465b3273b83b7dc56e2c28b7d2776 *R/col_function.R
+8f8f39e77ab1eb1c10ef838b3d5bd3e9 *R/data_type.R
+d82a24eb4b6af92aad69ec3606e806e4 *R/dialect.R
+20b756b8c8f66adffebf976f6f4682c6 *R/encoding.R
+c099f94262a0aaac0f41712f54d38083 *R/misc.R
+0674371708a287de69c2642ab5ea782d *R/parser_full.R
+bc7854fbc6f726008c3e02e538539325 *R/quality_assessment.R
+7f0af3ff68a1e979a3158e9a6f8b0209 *R/row_function.R
+85f1487d43fc2f051580c90bf437c7cd *R/table_area.R
+9c32bcf5fb27927e65372181f5154c75 *README.md
+b674a6359d1badd3d49d333de54ddc62 *man/parse_file.Rd
+a7efd6eb91855b2642421f3b31f3375a *tests/testthat.R
+2a1d0f5dd191eeca8bb31660de688522 *tests/testthat/test_basic.R
+e966630c104c6628ab486bb17519505b *tests/testthat/test_files.R
